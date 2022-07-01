@@ -1,0 +1,11 @@
+img {
+  height: 100%;
+  width: 100%;
+  filter: blur(4x);
+  -webkit-filter: blur(4px);
+  position: absolute;
+  z-index: 0;
+}
+.tablerow {
+  background-color: aqua;
+}
